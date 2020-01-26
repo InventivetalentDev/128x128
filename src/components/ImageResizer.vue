@@ -5,7 +5,7 @@
             <md-card class="image-resizer-card">
                 <md-card-header>
                     <div class="md-headline">128x128</div>
-                    <div class="md-subheading">Upload an Image to see how it would look with the EU's 128x128 size restrictions applied</div>
+                    <div class="md-subheading">Upload an Image to see how it would look with the <a href="https://yeleha.co/2O08YwS" target="_blank">EU's 128x128 size restrictions</a> applied</div>
                 </md-card-header>
 
                 <md-card-content>
