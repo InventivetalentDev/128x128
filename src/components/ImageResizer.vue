@@ -40,6 +40,9 @@
                                 @onComplete="endImageResize">
                         </image-uploader>
                     </div>
+                    <br/>
+                    <span style="color: #777777;">Made by <a href="https://inventivetalent.org" target="_blank">inventivetalent</a></span>
+
                 </md-card-content>
 
             </md-card>
