@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-image-upload-resize": "^2.2.1",
     "vue-material": "^1.0.0-beta-11"
   },
